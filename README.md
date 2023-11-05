@@ -1,2 +1,0 @@
-# HAM
-The HAM
